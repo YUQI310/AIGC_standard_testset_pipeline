@@ -1,0 +1,12 @@
+{
+  "HC3": {
+    "type": "text",
+    "commercial_use": "restricted",
+    "output_path": "02_processed/pending_review/text/HC3/"
+  },
+  "GenImage": {
+    "type": "image",
+    "commercial_use": "forbidden",
+    "output_path": "02_processed/isolation/license/image/GenImage/"
+  }
+}
